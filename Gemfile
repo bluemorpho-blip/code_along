@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+gem "rails"
 gem 'rack'
 gem 'sinatra'
 gem 'shotgun'
